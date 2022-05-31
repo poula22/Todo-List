@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/item_todoList"
+    android:title="todo-list"
+    android:icon="@drawable/ic_todo_nav_bar"/>
+    <item
+        android:id="@+id/item_settings"
+        android:title="settings"
+        android:icon="@drawable/ic_setting_nav_bar"/>
+</menu>
